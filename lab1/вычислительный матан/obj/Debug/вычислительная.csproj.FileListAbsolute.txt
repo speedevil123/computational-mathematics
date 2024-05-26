@@ -1,0 +1,14 @@
+C:\Users\Никита\Desktop\C# labs\Лабораторные работы\вычислительный матан\вычислительный матан\bin\Debug\вычислительный матан.exe.config
+C:\Users\Никита\Desktop\C# labs\Лабораторные работы\вычислительный матан\вычислительный матан\bin\Debug\вычислительный матан.exe
+C:\Users\Никита\Desktop\C# labs\Лабораторные работы\вычислительный матан\вычислительный матан\bin\Debug\вычислительный матан.pdb
+C:\Users\Никита\Desktop\C# labs\Лабораторные работы\вычислительный матан\вычислительный матан\obj\Debug\вычислительная.csproj.AssemblyReference.cache
+C:\Users\Никита\Desktop\C# labs\Лабораторные работы\вычислительный матан\вычислительный матан\obj\Debug\вычислительная.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\C# labs\Лабораторные работы\вычислительный матан\вычислительный матан\obj\Debug\вычислительный матан.exe
+C:\Users\Никита\Desktop\C# labs\Лабораторные работы\вычислительный матан\вычислительный матан\obj\Debug\вычислительный матан.pdb
+C:\Users\Никита\Desktop\C# labs\Вычислительная математика\lab1\вычислительный матан\bin\Debug\вычислительный матан.exe.config
+C:\Users\Никита\Desktop\C# labs\Вычислительная математика\lab1\вычислительный матан\bin\Debug\вычислительный матан.exe
+C:\Users\Никита\Desktop\C# labs\Вычислительная математика\lab1\вычислительный матан\bin\Debug\вычислительный матан.pdb
+C:\Users\Никита\Desktop\C# labs\Вычислительная математика\lab1\вычислительный матан\obj\Debug\вычислительная.csproj.AssemblyReference.cache
+C:\Users\Никита\Desktop\C# labs\Вычислительная математика\lab1\вычислительный матан\obj\Debug\вычислительная.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\C# labs\Вычислительная математика\lab1\вычислительный матан\obj\Debug\вычислительный матан.exe
+C:\Users\Никита\Desktop\C# labs\Вычислительная математика\lab1\вычислительный матан\obj\Debug\вычислительный матан.pdb
