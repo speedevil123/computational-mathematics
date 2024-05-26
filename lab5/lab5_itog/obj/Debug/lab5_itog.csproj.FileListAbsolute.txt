@@ -1,0 +1,7 @@
+C:\Users\Никита\Desktop\C# labs\Вычислительная математика\lab5_itog\lab5_itog\bin\Debug\lab5_itog.exe.config
+C:\Users\Никита\Desktop\C# labs\Вычислительная математика\lab5_itog\lab5_itog\bin\Debug\lab5_itog.exe
+C:\Users\Никита\Desktop\C# labs\Вычислительная математика\lab5_itog\lab5_itog\bin\Debug\lab5_itog.pdb
+C:\Users\Никита\Desktop\C# labs\Вычислительная математика\lab5_itog\lab5_itog\obj\Debug\lab5_itog.csproj.AssemblyReference.cache
+C:\Users\Никита\Desktop\C# labs\Вычислительная математика\lab5_itog\lab5_itog\obj\Debug\lab5_itog.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\C# labs\Вычислительная математика\lab5_itog\lab5_itog\obj\Debug\lab5_itog.exe
+C:\Users\Никита\Desktop\C# labs\Вычислительная математика\lab5_itog\lab5_itog\obj\Debug\lab5_itog.pdb
